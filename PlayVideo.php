@@ -14,7 +14,7 @@ class PlayVideo extends \yii\base\Widget
         parent::init();
 
         if (!$this->url) {
-        	$this->url = 'https://www.youtube.com/watch?v=7Fn79X932Ew';
+        	$this->url = 'https://www.youtube.com/embed/A6XUVjK9W4o';
         }
     }
 
