@@ -17,5 +17,11 @@
         "psr-4": {
             "ltphat\\playvideo\\": ""
         }
-    }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/ltienphat1307/yii2-ltphat-playvideo.git"
+        }
+    ]
 }
