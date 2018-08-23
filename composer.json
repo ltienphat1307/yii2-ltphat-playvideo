@@ -1,0 +1,21 @@
+{
+    "name": "ltp-playvideo/yii2-ltphat-playvideo",
+    "description": "Play some video such as youtube , video or mp4 by url",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ltphat",
+            "email": "ltienphat1307@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ltphat\\playvideo\\": ""
+        }
+    }
+}
